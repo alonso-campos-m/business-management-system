@@ -60,5 +60,5 @@ Detalle de cliente con historial de ventas y pagos
 👤 Autor
 Alonso Campos Mercado
 Estudiante de Ingeniería de Sistemas — Universidad de Lima
-Analista de Sistemas y Datos — Textiles Favio
+Analista de Sistemas y Datos — Empresa Textil X
 LinkedIn
