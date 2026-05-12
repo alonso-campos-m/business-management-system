@@ -1,4 +1,4 @@
-# 📊 Sistema de Costos de Producción — Textiles Favio
+# 📊 Sistema de Costos de Producción — Empresa Textil X
 > Informe técnico: 2026-05-09 | Estado: Implementado en Airtable
 
 ---
@@ -196,14 +196,6 @@ Utilidad Real     = Ingresos - Costos Variables - Costos Generales
 | Nuevo Lote | Lotes de Producción | Mamá |
 | Nuevo Gasto de Taxi | Gastos de Taxi | Mamá |
 | Nuevo Costo General | Costos Generales | Mamá |
-
----
-
-## 🚧 Pendiente
-
-- [ ] Crear formularios en Softr para los 3 módulos nuevos
-- [ ] Validar con datos reales el cálculo de Costo por Rollo y Margen
-- [ ] Levantar histórico de merma por tipo de tela
 
 ---
 
