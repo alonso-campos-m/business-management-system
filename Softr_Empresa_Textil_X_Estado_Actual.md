@@ -1,4 +1,4 @@
-# 📱 Softr — Sistema Frontend Textiles Favio
+# 📱 Softr — Sistema Frontend Empresa Textil X
 > Informe generado: 2026-05-09 | Conectado a: Airtable (Untitled Base)
 
 ---
