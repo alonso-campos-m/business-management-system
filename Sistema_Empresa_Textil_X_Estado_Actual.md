@@ -1,4 +1,4 @@
-# 🏭 Sistema de Gestión — Textiles Favio
+# 🏭 Sistema de Gestión — Empresa Textil X
 > Informe generado: 2026-05-09 | Herramienta: Airtable + Softr
 
 ---
