@@ -61,4 +61,4 @@ Detalle de cliente con historial de ventas y pagos
 Alonso Campos Mercado
 Estudiante de Ingeniería de Sistemas — Universidad de Lima
 Analista de Sistemas y Datos — Empresa Textil X
-LinkedIn
+LinkedIn - www.linkedin.com/in/alonso-campos-m
