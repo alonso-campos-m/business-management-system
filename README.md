@@ -2,7 +2,7 @@
 Sistema de gestión integral diseñado e implementado para una empresa textil en operación. Cubre inventario en tiempo real, control de deudas, fidelización de clientes y automatización de cobranzas vía WhatsApp.
 
 🎯 Problema que resuelve
-Textiles Favio operaba con registros manuales en cuadernos y Excel sin conexión entre módulos. No había forma de saber el stock real de rollos, qué clientes debían, ni cuánto acumulaban para el programa de fidelización. Este sistema centraliza toda la operación en una plataforma accesible desde cualquier dispositivo.
+Empresa Textil X operaba con registros manuales en cuadernos y Excel sin conexión entre módulos. No había forma de saber el stock real de rollos, qué clientes debían, ni cuánto acumulaban para el programa de fidelización. Este sistema centraliza toda la operación en una plataforma accesible desde cualquier dispositivo.
 
 🛠️ Stack tecnológico
 CapaTecnologíaBase de datosAirtable (9 tablas relacionales)FrontendSoftr (web + móvil)AutomatizaciónFórmulas avanzadas, Rollups, WhatsApp APIDocumentaciónMarkdown / Obsidian
